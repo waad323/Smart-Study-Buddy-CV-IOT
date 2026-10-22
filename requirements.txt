@@ -1,0 +1,7 @@
+# Computer Vision & IoT Dependencies
+opencv-python>=4.8.0
+mediapipe>=0.10.14
+numpy>=1.24.0
+pyserial>=3.5
+requests>=2.31.0
+matplotlib>=3.7.0
